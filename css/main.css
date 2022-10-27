@@ -1,0 +1,215 @@
+.bodys{
+    background-image: url(../images/pexels-sagui-andrea-618833.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     background-position: center
+   
+}
+
+/* containers start */
+.none{
+    display: none;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px;
+    color: white;
+}
+.container{
+
+    padding: 0;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius:50px;
+  
+}
+.container2{
+
+    padding: 0;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius:50px;
+  
+}
+.container3{
+
+    padding: 0;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius:50px;
+  
+}
+
+/* containers ens */
+
+#salom{
+    padding-top: 25px;
+    color: white;
+    font-size: 35px;
+}
+
+/* inputs */
+
+.inputs{
+   opacity: 0.5;
+    width: 450px;
+    margin-bottom: 40px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 25px;
+    border: 0;
+    
+    
+}
+.inputs2{
+    opacity: 0.5;
+     width: 450px;
+     margin-bottom: 40px;
+     height: 50px;
+     border-radius: 50px;
+     font-size: 25px;
+     border: 0;
+     
+     
+ }
+ .inputs3{
+    opacity: 0.5;
+     width: 450px;
+     margin-bottom: 40px;
+     height: 50px;
+     border-radius: 50px;
+     font-size: 25px;
+     border: 0;
+     
+     
+ }
+
+.name{margin-left: 40px;
+    opacity: 0.5;
+     width: 300px;
+     margin-bottom: 20px;
+     height: 50px;
+     border-radius: 50px;
+     font-size: 25px;
+     border: 0;
+     
+     
+ }
+ .names{margin-left: 40px;
+    opacity: 0.5;
+     width: 300px;
+     margin-bottom: 20px;
+     height: 50px;
+     border-radius: 50px;
+     font-size: 25px;
+     border: 0;
+     
+     
+ }
+ .days{
+    background-color: #F4CFB7;
+    margin-left: 40px;
+    opacity: 0.5;
+     width: 200px;
+     margin-bottom: 20px;
+     height: 50px;
+     border-radius: 50px;
+     font-size: 25px;
+     border: 0;
+     
+     
+ }
+
+/* inputs end */
+
+
+/* buttons */
+.btn{
+    
+    width: 200px;
+    height: 50px;
+    background: #F4CFB7;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 0;
+    margin:  30px auto;
+}
+.btn2s{
+    
+    width: 200px;
+    height: 50px;
+    background: #F4CFB7;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 0;
+    margin:  30px auto;
+}
+.btn2{
+    margin-top: 30px;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #F4CFB7;
+    margin-bottom: 20px;
+}
+.btnmoon{
+    background-color: transparent;
+    border: 0;
+    margin-top: 30px;
+
+}
+.btnsun{
+    background-color: transparent;
+    border: 0;
+    display: none;
+    margin-top: 30px;
+   
+
+}
+
+.btnmoonss{
+    background-color: transparent;
+    border: 0;
+    margin-top: 30px;
+
+}
+.btnsunss{
+    background-color: transparent;
+    border: 0;
+    display: none;
+    margin-top: 30px;
+   
+
+}
+.checks{
+    display: block;
+   color:#F4CFB7 ;
+   font-size: 20px;
+}
+/* buttons  end*/
+.spans{
+ font-size: 30px;
+}
+
+.message{
+    font-size: 25px;
+    color:red;
+}
+
+.malumot{
+    justify-content: center;
+    margin-top: 20px;
+    color: #F4CFB7;
+    font-size: 35px;
+}
+
+
